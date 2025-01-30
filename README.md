@@ -8,7 +8,7 @@ Bienvenido al repositorio **CodeForTheSpace**. Este proyecto tiene como objetivo
 
 ![Aqui unos CheatSet](https://i.imgur.com/5f9R1uZ.png)
 
-## Aqui un Tutorial desde 0
+## Aqui un Tutorial para aprender desde 0 
 
 [![Video Placeholder](https://img.youtube.com/vi/niPExbK8lSw/0.jpg)](https://www.youtube.com/watch?v=niPExbK8lSw "CodeForTheSpace Video")
 
