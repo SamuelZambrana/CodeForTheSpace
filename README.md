@@ -1,5 +1,7 @@
 # CodeForTheSpace
 
+![CodeForTheSpace](https://blog.desafiolatam.com/wp-content/uploads/2016/05/git-github-logo.jpg)
+
 Bienvenido al repositorio **CodeForTheSpace**. Este proyecto tiene como objetivo [Aprender Git-GitHub]. A continuación, encontrarás información sobre cómo configurar, utilizar y contribuir al proyecto.
 
 ## Descripción del Proyecto
