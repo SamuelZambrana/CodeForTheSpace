@@ -42,7 +42,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 ## Aqui algo de HTML y CSS 
 
  <div class='body'>
-      <div class='container'> HTML Y CSS
+      <div class='container'> <h1>HTML Y CSS</h1>
         <h1>
           <a href="https://github.com/SamuelZambrana/CodeForTheSpace/tree/main?tab=readme-ov-file">
             <span><em>Merge</em></span>
@@ -52,7 +52,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
         </h1>
 
 <style>
-   body {
+body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -92,4 +92,5 @@ a:hover {
 span em {
   font-style: normal;
   padding: 0 5px
+}
 </style>
