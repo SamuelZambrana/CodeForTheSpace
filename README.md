@@ -4,6 +4,8 @@
 
 Bienvenido al repositorio **CodeForTheSpace**. Este proyecto tiene como objetivo [Aprender Git-GitHub]. A continuación, encontrarás información sobre cómo configurar, utilizar y contribuir al proyecto.
 
+## Aqui unos CheatSet de Git-GitHub
+
 ![Aqui unos CheatSet](https://i.imgur.com/5f9R1uZ.png)
 
 ## Descripción del Proyecto
