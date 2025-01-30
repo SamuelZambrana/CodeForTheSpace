@@ -10,7 +10,11 @@
 
 1. **Configurar el Reproductor de Video**
    - Añadir un reproductor de video en el HTML con el siguiente código:
+
 	<h1>Reproductor de video</h1>
+
+	<h1>Reproductor de video desde feat-logic</h1>
+
    ```html
    <video id="videoPlayer" width="640" height="360" controls>
      <source src="ruta_del_video.mp4" type="video/mp4">
