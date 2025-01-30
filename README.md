@@ -37,3 +37,59 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/SamuelZambrana/CodeForTheSpace.git
+
+
+## Aqui algo de HTML y CSS 
+
+ <div class='body'>
+      <div class='container'> HTML Y CSS
+        <h1>
+          <a href="https://github.com/SamuelZambrana/CodeForTheSpace/tree/main?tab=readme-ov-file">
+            <span><em>Merge</em></span>
+            <span><em>Commit</em></span>
+            <span><em>Remote</em></span>
+          </a>
+        </h1>
+
+<style>
+   body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0e0e0;
+}
+
+.container {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 2em;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+span em {
+  font-style: normal;
+  padding: 0 5px
+</style>
