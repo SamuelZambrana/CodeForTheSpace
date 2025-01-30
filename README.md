@@ -40,7 +40,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 
 ## Aqui algo de HTML y CSS 
-
+<html>
  <div class='body'>
       <div class='container'> <h1>HTML Y CSS</h1>
         <h1>
@@ -94,3 +94,4 @@ span em {
   padding: 0 5px
 }
 </style>
+</html>
