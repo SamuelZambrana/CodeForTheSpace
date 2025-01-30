@@ -41,15 +41,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 ## Aqui algo de HTML y CSS 
 <html>
- <div class='body'>
-      <div class='container'> <h1>HTML Y CSS</h1>
-        <h1>
-          <a href="https://github.com/SamuelZambrana/CodeForTheSpace/tree/main?tab=readme-ov-file">
-            <span><em>Merge</em></span>
-            <span><em>Commit</em></span>
-            <span><em>Remote</em></span>
-          </a>
-        </h1>
+<head>
 
 <style>
 body {
@@ -94,4 +86,17 @@ span em {
   padding: 0 5px
 }
 </style>
+
+</head>
+<body>
+ <div class='body'>
+      <div class='container'> <h1>HTML Y CSS</h1>
+        <h1>
+          <a href="https://github.com/SamuelZambrana/CodeForTheSpace/tree/main?tab=readme-ov-file">
+            <span><em>Merge</em></span>
+            <span><em>Commit</em></span>
+            <span><em>Remote</em></span>
+          </a>
+        </h1>
+</body>       
 </html>
